@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/geocities/static/css/main.78839528.css",
-    "main.js": "/geocities/static/js/main.bad93eca.js",
+    "main.js": "/geocities/static/js/main.badf02e3.js",
     "static/media/world.ico": "/geocities/static/media/world.f5bdbf8ce74642ae2431.ico",
     "index.html": "/geocities/index.html",
     "main.78839528.css.map": "/geocities/static/css/main.78839528.css.map",
-    "main.bad93eca.js.map": "/geocities/static/js/main.bad93eca.js.map"
+    "main.badf02e3.js.map": "/geocities/static/js/main.badf02e3.js.map"
   },
   "entrypoints": [
     "static/css/main.78839528.css",
-    "static/js/main.bad93eca.js"
+    "static/js/main.badf02e3.js"
   ]
 }
